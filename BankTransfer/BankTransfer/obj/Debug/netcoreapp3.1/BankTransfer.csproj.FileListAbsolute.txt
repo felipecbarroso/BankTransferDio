@@ -1,0 +1,13 @@
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\bin\Debug\netcoreapp3.1\BankTransfer.exe
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\bin\Debug\netcoreapp3.1\BankTransfer.deps.json
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\bin\Debug\netcoreapp3.1\BankTransfer.runtimeconfig.json
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\bin\Debug\netcoreapp3.1\BankTransfer.runtimeconfig.dev.json
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\bin\Debug\netcoreapp3.1\BankTransfer.dll
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\bin\Debug\netcoreapp3.1\BankTransfer.pdb
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.AssemblyInfo.cs
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.dll
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.pdb
+C:\Users\felip\source\repos\BankTransfer\BankTransfer\obj\Debug\netcoreapp3.1\BankTransfer.genruntimeconfig.cache
